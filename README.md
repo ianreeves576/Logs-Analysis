@@ -1,5 +1,5 @@
 # Logs-Analysis
-
+### What Does The Program Do?
 -This is a program that runs Python Code that runs queries that extracts three specific questions from the database.
 
 In this project I created a reporting tool that prints text from data on the database that answer the following questions:
@@ -8,7 +8,10 @@ In this project I created a reporting tool that prints text from data on the dat
 -Who are the most popular article authors of all time?
 -On which days did more than 1% of requests lead to errors?
 
-## Installation Instructions
+### What Is Required
+-In the Repo is a required.txt file that lists the required installations in order to run the program.
+
+### Installation Instructions
 1. First Fork and Clone the Logs-Analysis Repo. 
 2. Then open up a terminal, cd into the directory you cloned Logs-Analysis in to.
 3. Finally, run the python file called 'query_runner.py' by typing in the command "python query_runner.py" in your command line.
