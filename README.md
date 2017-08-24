@@ -13,7 +13,7 @@ In this project I created a reporting tool that prints text from data on the dat
 -The Python Version that is needed to run the following queries is Python 3.6.
 
 ## Installation Instructions
-###Installing The Database
+### Installing The Database
 1. Install Pycharm 2017.1.5
 2. Download the newsdata (1).zip file, located in the Logs-Analysis repo.
 3. Unzip the newsdata (1).zip file and find newsdata.sql file located inside.
